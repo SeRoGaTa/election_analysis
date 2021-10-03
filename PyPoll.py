@@ -3,10 +3,10 @@ import csv
 import os
 
 # Here we asign the path to a variable to read the file.
-file_to_open = os.path.join("Week 3","Asynchronous Online Lessons","Resources","election_results.csv")
+file_to_open = os.path.join("Week 3","Asynchronous Online Lessons","election_analysis","Resources","election_results.csv")
 
 # Here we asign the path to a variable to write the file.
-file_to_save = os.path.join("Week 3","Asynchronous Online Lessons","Analysis","election_analysis.csv")
+file_to_save = os.path.join("Week 3","Asynchronous Online Lessons","election_analysis","Analysis","election_analysis.csv")
 
 # Here I initialize to 0 the total votes variable
 total_votes = 0
