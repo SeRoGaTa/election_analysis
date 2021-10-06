@@ -8,7 +8,7 @@ import os
 # Add a variable to load a file from a path.
 file_to_open = os.path.join("Week 3","Asynchronous Online Lessons","election_analysis","Resources","election_results.csv")
 # Add a variable to save the file to a path.
-file_to_save = os.path.join("Week 3","Asynchronous Online Lessons","election_analysis","Analysis","election_analysis.csv")
+file_to_save = os.path.join("Week 3","Asynchronous Online Lessons","election_analysis","Analysis","election_analysis.txt")
 
 # Initialize a total vote counter.
 total_votes = 0
