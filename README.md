@@ -39,7 +39,7 @@
 #### This analysis reflects what we could get out of the Election Results csv file which contains the Country and Candidate for all Ballot IDs, with this data I was able to get insights as which candidate won the election, which county has the more turnout and the specific date as % of the poll and the amount of votes each county and candidate had.
 
 ### Election Audit Results
-#### In the file "election_analysis.csv" located here [election_analysis](https://github.com/SeRoGaTa/election_analysis/blob/main/Analysis/election_analysis.csv) you will find the output of my analysis python script. 
+#### In the file "election_analysis.txt" located here [election_analysis](https://github.com/SeRoGaTa/election_analysis/blob/main/Analysis/election_analysis.txt) you will find the output of my analysis python script. 
 
 Here is an image of it.
 
